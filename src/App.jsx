@@ -4,6 +4,7 @@ import Services   from './components/Services'
 import About      from './components/About'
 import Process    from './components/Process'
 import TechStack  from './components/TechStack'
+import Products   from './components/Products'
 import Industries from './components/Industries'
 import Contact    from './components/Contact'
 import Footer     from './components/Footer'
@@ -18,6 +19,7 @@ export default function App() {
         <About />
         <Process />
         <TechStack />
+        <Products />
         <Industries />
         <Contact />
       </main>

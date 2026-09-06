@@ -9,10 +9,11 @@ const SERVICE_LINKS = [
   'IoT & Connectivity', 'Embedded Linux', 'Hardware Design', 'Code Audit',
 ]
 const COMPANY_LINKS = [
-  { href: '#about',   label: 'About Us' },
-  { href: '#process', label: 'Our Process' },
-  { href: '#tech',    label: 'Tech Stack' },
-  { href: '#contact', label: 'Contact' },
+  { href: '#about',     label: 'About Us' },
+  { href: '#process',   label: 'Our Process' },
+  { href: '#tech',      label: 'Tech Stack' },
+  { href: '#products',  label: 'Products' },
+  { href: '#contact',   label: 'Contact' },
 ]
 const CONNECT_LINKS = ['LinkedIn', 'GitHub', 'Twitter / X', 'chethanreddy250@gmail.com']
 

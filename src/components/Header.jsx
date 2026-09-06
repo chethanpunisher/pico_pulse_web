@@ -7,11 +7,12 @@ const Logo = () => (
 )
 
 const NAV_ITEMS = [
-  { href: '#services', label: 'Services' },
-  { href: '#about',    label: 'About' },
-  { href: '#process',  label: 'Process' },
-  { href: '#tech',     label: 'Tech Stack' },
-  { href: '#contact',  label: 'Contact' },
+  { href: '#services',  label: 'Services' },
+  { href: '#about',     label: 'About' },
+  { href: '#process',   label: 'Process' },
+  { href: '#tech',      label: 'Tech Stack' },
+  { href: '#products',  label: 'Products' },
+  { href: '#contact',   label: 'Contact' },
 ]
 
 export default function Header() {
