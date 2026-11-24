@@ -15,7 +15,7 @@ const COMPANY_LINKS = [
   { href: '#products',  label: 'Products' },
   { href: '#contact',   label: 'Contact' },
 ]
-const CONNECT_LINKS = ['LinkedIn', 'GitHub', 'Twitter / X', 'chethanreddy250@gmail.com']
+const CONNECT_LINKS = ['LinkedIn', 'GitHub', 'Twitter / X', 'chethanreddy@picopulse.in']
 
 export default function Footer() {
   return (

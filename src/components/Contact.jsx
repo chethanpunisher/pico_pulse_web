@@ -67,7 +67,7 @@ export default function Contact() {
         setSent(true)
         setForm({ name: '', email: '', company: '', service: '', message: '' })
       } else {
-        alert('Something went wrong. Please try again or email chethanreddy250@gmail.com directly.')
+        alert('Something went wrong. Please try again or email chethanreddy@picopulse.in directly.')
       }
     } catch {
       alert('Network error. Please check your connection and try again.')
@@ -87,7 +87,7 @@ export default function Contact() {
             or an independent audit before your next certification review — we're ready to talk.
           </p>
           <div className="contact__details">
-            <div className="contact-detail"><MailIcon /><span>chethanreddy250@gmail.com</span></div>
+            <div className="contact-detail"><MailIcon /><span>chethanreddy@picopulse.in</span></div>
             <div className="contact-detail"><PhoneIcon /><span>+91 74067 27106</span></div>
             <div className="contact-detail"><PinIcon /><span>Vidya Nagar, Peenya, Bangalore — 560075, Karnataka, India</span></div>
           </div>
